@@ -1,1 +1,6 @@
-Creating a file in the local repo with name file5.txt
+Retaining the changes from remote repo and removing the local repo commit details
+
+<<<<<<< HEAD
+=======
+Creating the file5 from Remote repo
+>>>>>>> c65bc754eab5bcb8e373255aa95f804f31cb92bc
