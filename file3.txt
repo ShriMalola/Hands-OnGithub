@@ -1,1 +1,6 @@
+Retaining both the contents
+<<<<<<< HEAD
 This is a file created on Master branch
+=======
+This is a file created on Branch1
+>>>>>>> branch1
